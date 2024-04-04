@@ -1,3 +1,3 @@
 # ArcRebuildSPSecret
 
-This powershell will allow you to rebuild the EncryptedServicePrincipalSecret file used to onboard machines to Azure Arc.
+This powershell will allow you to rebuild the EncryptedServicePrincipalSecret file used to onboard machines to Azure Arc via Group Policy Object.
